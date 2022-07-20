@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/nscript-site/NScript.Rivers" target="_blank" rel="noopener noreferrer"><img width="64" src="https://github.com/nscript-site/NScript.Rivers/blob/main/rivers-logo.png" alt="Rivers logo"></a></p>
 
-<p align="right">天下之水，莫大于海，万川归之，不知何时止而不盈。 ——《庄子·秋水》
+<p align="center" style="color: #333333;padding-top:20px;">天下之水，莫大于海，万川归之，不知何时止而不盈。 ——《庄子·秋水》
 </p>
 
 
