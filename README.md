@@ -1,6 +1,8 @@
 # Rivers （万川）分布式计算引擎
 
-![万川logo](rivers-logo.png)
+<p align="center"><a href="https://github.com/nscript-site/NScript.Rivers" target="_blank" rel="noopener noreferrer"><img width="100" src="https://github.com/nscript-site/NScript.Rivers/blob/main/rivers.png" alt="Rivers logo"></a></p>
+
+<!-- ![万川logo](rivers-logo.png) -->
 
 天下之水，莫大于海，万川归之，不知何时止而不盈。 ——《庄子·秋水》
 
